@@ -1,0 +1,2 @@
+# Minicad
+Progetto Ing. Software.
